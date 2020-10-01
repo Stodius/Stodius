@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/c/Stodius?sub_confirmation=1"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/stodiusdev"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<h4 color="blue" align="center">Hey there, I'm StodiusDev. I am profecient in Java, HTML, CSS, and Python. Interested in what I do? Why don't you give me a follow?</h1>
+<h4 color="blue" align="center">Hey there, I'm StodiusDev. I am profecient in Java, HTML, CSS, and Python. I like to make programs that generate and automate random things in life. Interested in what I do? Why don't you give me a follow?</h1>
 <p align="center">Questions or concerns? DM me - StodiusDev#0001</p>
 
 ## 💻 Projects 
