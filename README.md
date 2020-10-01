@@ -11,6 +11,8 @@
 ## 💻 Projects 
 ✨ Discord Nitro Generator and Checker ✨ ⮞ https://github.com/Stodius/Nitro-Generator-Checker
 
+## 💻 Langugaes 
+
 ## 📊 Github Stats
 <p align="left">
 <a href="https://github.com/stodius">
