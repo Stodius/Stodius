@@ -5,14 +5,14 @@
 <a href="https://www.youtube.com/c/Stodius?sub_confirmation=1"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/stodiusdev"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+<h4 color="blue" align="center">Hey there, I'm StodiusDev. I am profecient in Java, HTML, CSS, and Python. Interested in what I do? Why don't you give me a follow?</h1>
 <p align="center">Questions or concerns? DM me - StodiusDev#0001</p>
 
 ## 💻 Projects 
 ✨ Discord Nitro Generator and Checker ✨ ⮞ https://github.com/Stodius/Nitro-Generator-Checker
 
 ## 📊 Github Stats
-<p align="center">
+<p align="left">
 <a href="https://github.com/stodius">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=stodius&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stodius's Stats" />
 </a>
