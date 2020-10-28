@@ -27,4 +27,4 @@
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=stodius.stodius" />
 </p>
 
-[![Spotify](https://spotify-snowy.vercel.app/api/spotify)](https://open.spotify.com/user/u0h1ip0kct40w6odtl3ib5wnz)
+
